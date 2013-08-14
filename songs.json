@@ -1,0 +1,27 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "National Anthem",
+      "artist": "Radiohead",
+      "album": "Kid A",
+      "length": "00:00"
+    },
+
+    {
+      "id": 2,
+      "title": "Laredo",
+      "artist": "Band of Horses",
+      "album": "Infinite Arms",
+      "length": "00:00"
+    },
+
+    {
+      "id": 3,
+      "title": "Tomorrow Never Knows",
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "length": "00:00"
+    }
+  ]
+}

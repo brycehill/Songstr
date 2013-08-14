@@ -1,0 +1,21 @@
+/* Put your custom styles here */
+html, body {
+    margin: 20px;
+}
+
+header {}
+
+nav {}
+
+.content {}
+
+footer {}
+
+.songs {
+  list-style: none;
+  margin-left: 0;
+}
+
+.editor {
+  margin: 15px 0;
+}

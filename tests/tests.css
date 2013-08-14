@@ -1,0 +1,15 @@
+
+#ember-testing-container {
+  background: white;
+  width: 1000px;
+  height: 400px;
+  overflow: hidden;
+  z-index: 9999;
+  border: 1px solid #ccc;
+  position: relative;
+  bottom: 0;
+  right: 0;
+  margin: 30px auto 0;
+}
+
+#ember-testing {}
